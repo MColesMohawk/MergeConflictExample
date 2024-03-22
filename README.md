@@ -1,0 +1,2 @@
+# MergeConflictExample
+Merge conflict example
